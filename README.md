@@ -29,5 +29,5 @@ No meu tempo livre, adoro explorar novas tecnologias, trabalhar em projetos de c
 - **Next.js**
 - **Figma** | **Miro**
   
-📫 Entre em contato comigo, estou sempre aberta a conversar sobre **novos projetos** e **colaborações**! [LinkedIn](https://www.linkedin.com/in/nathaliakoetz/) | [Email](nathesantos@gmail.com) | [Instagram](https://www.instagram.com/nathkoetz/)
+📫 Entre em contato comigo, estou sempre aberta a conversar sobre **novos projetos** e **colaborações**! [LinkedIn](https://www.linkedin.com/in/nathaliakoetz/) | [Email](nathesantos@gmail.com) | [Insta](https://www.instagram.com/nathkoetz/)
 
