@@ -1,68 +1,62 @@
+<!-- Container principal -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nathaliakoetz/nathaliakoetz/main/titulo.png" alt="Nathalia Koetz" style="max-width: 100%; height: auto;" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Sempre%20em%20busca%20de%20novas%20formas%20de%20usar%20a%20tecnologia-ec77ab?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Experiência%20em%20sistemas%20e%20bancos%20de%20dados-ffffff?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Gamer%20e%20maratonista%20de%20séries-ec77ab?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamer%20aposentada%20(talvez%20volte)-ffffff?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Desenvolvendo%20o%20Sistema%20Gestor%20Íris-ec77ab?style=for-the-badge&logoColor=white" />
+</p>
+</div>
+</div>
+<!-- Contato -->
+<h3 align="center" style="display: flex; justify-content: flex-end; align-items: center; gap: 8px;">
+<span>💌 Vamos nos conectar?</span>
+</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/nathaliakoetz/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-ec77ab.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nathesantos@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-white.svg?style=for-the-badge&logo=gmail&logoColor=ec77ab"/>
+</a>
+<a href="https://www.instagram.com/nathkoetz/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-ec77ab.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+<!-- Tecnologias -->
+<div style="flex: 1; min-width: 280px; background-color: #fff0f5; padding: 16px; border-radius: 10px;">
+<h3 align="center">👩‍💻 Tecnologias que domino:</h3>
+  <h4 align="center">Linguagens de Programação</h4>
+<p align="center"> 
+<img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-ec77ab?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-ec77ab?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+  <h4 align="center">Banco de Dados</h4>
+<p align="center"> 
+<img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-ec77ab?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black"/>
+</p>
+  <h4 align="center">Frameworks e Ferramentas</h4>
+<p align="center"> 
+<img src="https://img.shields.io/badge/React_Native-ec77ab?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-ffffff?style=for-the-badge&logo=expo&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-ec77ab?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-ec77ab?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-ec77ab?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+</p>
+</div>
+<!-- GitHub Stats -->
+<h3 align="center">🩷 GitHub Stats</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nathaliakoetz&show_icons=true&bg_color=0D1117&title_color=ec77ab&text_color=ffffff&icon_color=ec77ab&border_color=ec77ab" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliakoetz&layout=compact&bg_color=0D1117&title_color=ec77ab&text_color=ffffff&icon_color=ec77ab&border_color=ec77ab" width="47%"/>
+</p>
 
-# Olá, sou a Nathalia Koetz 👋
-
-**Estagiária** na empresa Mertins Tecnologias, além de estar na reta final do curso de **Análise e Desenvolvimento de Sistemas** na **UniSenac Pelotas**, onde venho trabalhando em diversos projetos práticos relacionados a **desenvolvimento de software** e **computação em nuvem**. Tenho experiência com **Java**, **JavaScript**, **TypeScript**, **Python** e também com bancos de dados como **PostgreSQL** e **MySQL**.
-No meu tempo livre, adoro explorar novas tecnologias, trabalhar em projetos de código aberto e aprender novas linguagens e ferramentas.
-
-## Um pouco mais sobre mim:
-- 🌱 Estou sempre buscando novas formas de aplicar a **tecnologia** para resolver problemas do mundo real.
-- 🧑‍💻 Tenho experiência em **desenvolvimento de sistemas**, **suporte a banco de dados** e **otimização de processos**.
-- 🎮 Nos meus momentos de lazer, sou apaixonada por **videogames** e **séries**.
-- 🟢 Já me **aventurei** no mundo das **lives** na Twitch. (Um dia quem sabe eu volte 🙈)
-- 🚀 Tenho trabalhado no **Sistema Gestor Íris**, um projeto voltado para crianças autistas.
-
-## Tecnologias com as quais trabalho:
-
-### Linguagens de Programação:
-- **Java**
-- **JavaScript** | **TypeScript**
-- **Python**
-
-### Bancos de Dados:
-- **PostgreSQL**
-- **MongoDB**
-- **MySQL**
-
-### Frameworks e Ferramentas:
-- **React** | **React Native** | **Expo**
-- **Docker**
-- **Tailwind CSS**
-- **Next.js**
-- **Figma** | **Miro**
-  
-📫 Entre em contato comigo, estou sempre aberta a conversar sobre **novos projetos** e **colaborações**! [LinkedIn](https://www.linkedin.com/in/nathaliakoetz/) | [Email](nathesantos@gmail.com) | [Insta](https://www.instagram.com/nathkoetz/)
-
----
-
-# Hi, I'm Nathalia Koetz 👋
-
-**Intern** at Mertins Tecnologias, and currently in the final stages of my **Systems Analysis and Development** degree at **UniSenac Pelotas**, where I have been working on various practical projects related to **software development** and **cloud computing**. I have experience with **Java**, **JavaScript**, **TypeScript**, **Python**, and also with databases like **PostgreSQL** and **MySQL**.
-In my free time, I love exploring new technologies, working on open-source projects, and learning new languages and tools.
-
-## A little bit more about me:
-- 🌱 I'm always looking for new ways to apply **technology** to solve real-world problems.
-- 🧑‍💻 I have experience in **software development**, **database support**, and **process optimization**.
-- 🎮 In my leisure time, I'm passionate about **videogames** and **TV series**.
-- 🟢 I have **ventured** into the world of **livestreaming** on Twitch. (Maybe I'll return one day 🙈)
-- 🚀 I've worked on **Sistema Gestor Íris**, a project focused on autistic children.
-
-## Technologies I work with:
-
-### Programming Languages:
-- **Java**
-- **JavaScript** | **TypeScript**
-- **Python**
-
-### Databases:
-- **PostgreSQL**
-- **MongoDB**
-- **MySQL**
-
-### Frameworks and Tools:
-- **React** | **React Native** | **Expo**
-- **Docker**
-- **Tailwind CSS**
-- **Next.js**
-- **Figma** | **Miro**
-
-📫 Feel free to reach out to me, I'm always open to discuss **new projects** and **collaborations**! [LinkedIn](https://www.linkedin.com/in/nathaliakoetz/) | [Email](nathesantos@gmail.com) | [Instagram](https://www.instagram.com/nathkoetz/)
