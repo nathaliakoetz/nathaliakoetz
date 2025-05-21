@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=F25C84"/>
   <img src="https://img.shields.io/badge/CSS3-F25C84?style=for-the-badge&logo=css3&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=F25C84"/>
-  <img src="https://img.shields.io/badge/MongoDB-F25C84?style=for-the-badge&logo=mongodb&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/GitHub-F25C84?style=for-the-badge&logo=github&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=F25C84"/>
   <img src="https://img.shields.io/badge/React_Native-F25C84?style=for-the-badge&logo=react&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Expo-ffffff?style=for-the-badge&logo=expo&logoColor=F25C84"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=F25C84"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-F25C84?style=for-the-badge&logo=tailwind-css&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F25C84"/>
-  <img src="https://img.shields.io/badge/GitHub-F25C84?style=for-the-badge&logo=github&logoColor=ffffff"/>
+
 </p>
 
 <!-- GitHub Stats -->
