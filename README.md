@@ -37,13 +37,13 @@
 
 <!-- GitHub Stats -->
 <p align="center">
+<img 
+  src="https://github-readme-stats-nu-ten.vercel.app/api?username=nathaliakoetz&bg_color=00000000&title_color=F25C84&text_color=F25C84&icon_color=F25C84&hide_border=true" 
+  width="52%" 
+  alt="GitHub Stats" 
+/>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nathaliakoetz&bg_color=00000000&title_color=F25C84&text_color=F25C84&icon_color=F25C84&border_color=F25C84"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliakoetz&bg_color=00000000&layout=compact&title_color=F25C84&text_color=F25C84&border_color=F25C84"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliakoetz&bg_color=00000000&layout=compact&title_color=F25C84&text_color=F25C84&hide_border=true"
     width="38%"
     alt="Top Languages"
   />
